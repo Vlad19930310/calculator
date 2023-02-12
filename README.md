@@ -19,3 +19,4 @@ To build, simply:
 ::: mermaid
  graph LR;
  A[Press here https://learn.microsoft.com/en-us/training/paths/az-400-implement-continuous-feedback/?source=docs ] --> B[visit Microsof Learn]
+:::
