@@ -16,3 +16,6 @@ To build, simply:
 1. Runs `npm install` to install dependencies.
 2. Runs `npm test` to run Mocha and execute the unit tests.
 
+::: mermaid
+ graph LR;
+ A[Press here https://learn.microsoft.com/en-us/training/paths/az-400-implement-continuous-feedback/?source=docs ] --> B[visit Microsof Learn]
